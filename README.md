@@ -3,7 +3,7 @@ We study the problem of image-to-video synthesis, whose goal is to learn a mappi
 
 # Example Generating video
 The video in the center shows the Source driving video. the image on the left side is the source image that wants it to do a specific motion. the Video on the Right shows output generating fake video after Mapping motion from the source video to the source image.
-![image](example.PNG)
+![image](images/image.gif)
 
 # Dataset Used
 - The VoxCeleb dataset is a face dataset of 22496 videos, extracted from YouTube videos, obtain 12331 training videos and 444 test videos, with lengths varying from 64 to 1024 frames.
