@@ -5,8 +5,8 @@ We study the problem of image-to-video synthesis, whose goal is to learn a mappi
 The video in the center shows the Source driving video. the image on the left side is the source image that wants it to do a specific motion. the Video on the Right shows output generating fake video after Mapping motion from the source video to the source image.
 
 <p align="center">
-  <img src="images/1.gif" />
-  <img src="images/2.gif" />
+  <img src="images/1.gif" width=500 />
+  <img src="images/2.gif" width=500 />
 </p>
 
 
