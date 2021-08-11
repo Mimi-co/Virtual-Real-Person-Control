@@ -1,7 +1,10 @@
 # Virtual-Real-Person-Control
 We study the problem of image-to-video synthesis, whose goal is to learn a mapping function from an input source video to an output photorealistic video that precisely depicts the content of the source video.
 
-### Example Generating video
+## Project Document
+ [https://docs.google.com/document/d/1_C6NppVdGra_Ha06fdYF_LlooDZgiVSG9qw1s82PyYU/edit?usp=sharing](Doc).
+
+## Example Generating video
 The video in the center shows the Source driving video. the image on the left side is the source image that wants it to do a specific motion. the Video on the Right shows output generating fake video after Mapping motion from the source video to the source image.
 
 <p align="center">
